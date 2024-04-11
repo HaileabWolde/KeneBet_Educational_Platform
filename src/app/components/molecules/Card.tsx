@@ -23,7 +23,7 @@ export const Card = ({
 }: CardProps) => {
   return (
     <>
-      <div className={cardClass} {...rest} >
+      <div className={cardClass} {...rest}>
         <Image
           className={imageWrapperClass}
           objectCover={cover}
