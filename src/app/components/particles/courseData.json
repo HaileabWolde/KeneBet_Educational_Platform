@@ -1,0 +1,68 @@
+courseData = [
+    {
+      courseId: 1,
+      courseImage: "./images/Don1.jpg",
+      courseTitle: "Programming",
+      description: "",
+      Instructor: "",
+      duration: "2hr 40min",
+      category:"Programming"
+      price:"1200ETB"
+      level:"Intermediate"
+    },
+    {
+        courseId: 2,
+        courseImage: "./images/Don1.jpg",
+        courseTitle: "Programming",
+        description:"",
+        Instructor: "",
+        duration: "2hr 40min",
+        category:"Programming"
+        price:"1200ETB"
+        level:"Intermediate"
+      },
+      {
+        courseId: 3,
+        courseImage: "./images/Don1.jpg",
+        courseTitle: "Programming",
+        description: "",
+        Instructor: "",
+        duration: "2hr 40min",
+        category:"Programming"
+        price:"1200ETB"
+        level:"Intermediate"
+      },
+      {
+        courseId: 4,
+        courseImage: "./images/Don1.jpg",
+        courseTitle: "Programming",
+        description: "",
+        Instructor: "",
+        duration: "2hr 40min",
+        category:"Programming"
+        price:"1200ETB"
+        level:"Intermediate"
+      },
+      {
+        courseId: 5,
+        courseImage: "./images/Don1.jpg",
+        courseTitle: "Programming",
+        description: "",
+        Instructor: "",
+        duration:"2hr 40min",
+        category:"Programming"
+        price:"1200ETB"
+        level:"Intermediate"
+      },
+      {
+        courseId: 6,
+        courseImage: "./images/Don1.jpg",
+        courseTitle: "Programming",
+        description: "",
+        Instructor: "",
+        duration: "2hr 40min",
+        category:"Programming"
+        price:"1200ETB"
+        level:"Intermediate"
+      },
+  ];

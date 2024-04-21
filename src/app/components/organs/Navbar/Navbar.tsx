@@ -79,12 +79,12 @@ const NavBar = () => {
               type="text"
               name="Search_Courses"
               placeholder="Search Courses"
-              className="p-1 w-48 mt-2 text-[#1C274C] ml-8 border rounded-lg text-base outline-none bg-[#e2e8f0] placholder-white font-semibold "
+              className="p-1 w-48 mt-2 text-[#1C274C] mx-4 border rounded-lg text-base outline-none bg-[#e2e8f0] placholder-white font-semibold "
             />
             <div className="flex flex-row gap-2 items-center cursor-pointer mt-2 ">
-              <FaShoppingCart color="#1C274C" size={22} />
+              <FaShoppingCart color="#1C274C" size={23} />
               {/* <FaBell color="#1C274C" size={22} /> */}
-              <FaUser color="#1C274C" size={22} />
+              <FaUser color="#1C274C" size={23} />
             </div>
           </div>
         </div>
